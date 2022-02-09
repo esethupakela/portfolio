@@ -14,4 +14,4 @@ I studied Data Science at HyperionDev because I wanted to begin my tech journey 
 
 The skills I have acquired include Python, Object Orientated Programming(OOP), Natural Language Processing(NLP), SQL, SQLite, Data exploration, analytics and visualisation, Machine Learning and Artificial Intelligence(AI).
 
-A recent project I have worked on is a 
+A recent project I have worked on is a an Unsuprvised Machine Learning Project which analyzes the FGM data set which contains information on the prevalence(%) of Female Genital Mutilation in African. You may have a look at it here https://github.com/esethupakela/gitTask/tree/main/FGM/EDA%20Report
